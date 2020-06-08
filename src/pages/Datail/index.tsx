@@ -1,7 +1,7 @@
 import React from 'react';
 import { View } from 'react-native';
 
-const Datail = () => {
+const Detail = () => {
     return (
         <View>
 
@@ -10,4 +10,4 @@ const Datail = () => {
     )
 }
 
-export default Datail;
+export default Detail;
