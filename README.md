@@ -6,7 +6,7 @@
 
 ## :rocket: Tecnologias
 
-- [React Native](https://reactjs.org/)
+- [React Native](https://reactnative.dev/)
 
 ## 💻 Projeto
 
